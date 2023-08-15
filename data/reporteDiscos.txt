@@ -1,0 +1,17 @@
+Reporte de discos
+=================
+Nombre: Madonna
+Genero: Pop
+Precio: 3600.0
+Nombre: The Chemical Brothers
+Genero: Electrónica
+Precio: 4050.0
+Nombre: The Strokes
+Genero: Rock
+Precio: 3600.0
+Nombre: The White Stripes
+Genero: Rock
+Precio: 2600.0
+Nombre: Marc Anthony
+Genero: Salsa
+Precio: 10.0
